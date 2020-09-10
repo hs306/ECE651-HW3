@@ -1,0 +1,15 @@
+is
+the
+of
+and
+as
+a
+but
+::
+This file is to create a test file with one line empty 
+Descent of Man
+The Ascent of Man
+The Old Man and The Sea
+
+A Portrait of The Artist As a Young Man
+A Man is a Man but Bubblesort IS A DOG dash this 

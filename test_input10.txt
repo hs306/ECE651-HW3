@@ -1,0 +1,66 @@
+is
+the
+of
+and
+as
+a
+but
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+v
+W
+x
+Y
+Z
+Aa
+Ab
+Ac
+Ad
+Ae
+Af
+Ag
+Ah
+Ai
+Aj
+Ak
+Al
+Am
+An
+Ao
+Ap
+Aq
+Ar
+As
+At
+Au
+Av
+Aw
+Ax
+Ay
+Az
+::
+This file is to create a file more than 50 ignore word
+Descent of Man
+The Ascent of Man
+The Old Man and The Sea
+A Portrait of The Artist As a Young Man
+A Man is a Man but Bubblesort IS A DOG dash this ok fine you good again
